@@ -122,7 +122,7 @@ const muhammadFaizan = {
 Detects cigarettes and active smoking behavior in photos and video using a custom-trained YOLOv8 model, served through a FastAPI REST API with a React dashboard on top.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=SmokeGuard&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=SmokeGuard&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff&cache_seconds=86400" />
 </p>
 
 | Aspect | Detail |
@@ -142,7 +142,7 @@ Detects cigarettes and active smoking behavior in photos and video using a custo
 Upload a CSV/Excel dataset and ask questions about it in plain English — the LLM only plans the operation, real Pandas/SQL/scikit-learn execution produces every number, with forecasting, anomaly detection, segmentation, cohort retention, and A/B testing built in.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=AI-Powered-Data-Analyst&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=AI-Powered-Data-Analyst&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff&cache_seconds=86400" />
 </p>
 
 | Aspect | Detail |
@@ -162,7 +162,7 @@ Upload a CSV/Excel dataset and ask questions about it in plain English — the L
 A computer vision project that detects people in an image and classifies them as male or female in real time, built end-to-end from dataset preparation through a live inference frontend.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=Gender-Classification&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=Gender-Classification&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff&cache_seconds=86400" />
 </p>
 
 | Aspect | Detail |
@@ -182,7 +182,7 @@ A computer vision project that detects people in an image and classifies them as
 An end-to-end demo that generates a 2D virtual try-on image (person + garment) and then converts that result into a web-ready 3D avatar (GLB) via the Hi3D / hitem3d.ai cloud API — with a React + Vite UI to upload, preview, generate, and view the 3D output.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=3D-StyleForge&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=3D-StyleForge&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff&cache_seconds=86400" />
 </p>
 
 | Aspect | Detail |
@@ -203,7 +203,7 @@ An end-to-end demo that generates a 2D virtual try-on image (person + garment) a
 Turns any spreadsheet into an interactive, in-browser BI-style analytics dashboard — no backend, no upload, everything runs client-side. Auto-detects HR/attrition data vs. generic (sales, inventory, survey) data and adapts the entire dashboard accordingly.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=Excel-to--Dashboard&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=Excel-to--Dashboard&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff&cache_seconds=86400" />
 </p>
 
 | Aspect | Detail |
@@ -224,7 +224,7 @@ Turns any spreadsheet into an interactive, in-browser BI-style analytics dashboa
 Started as a churn prediction model and grew into a full Customer Intelligence Platform — combining a production-grade XGBoost churn classifier, a PyTorch LSTM usage-trend model, and a DistilBERT sentiment layer into one 0–100 Health Score, served through a 4-tab Streamlit app.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=churn-prediction-app&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=churn-prediction-app&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff&cache_seconds=86400" />
 </p>
 
 | Aspect | Detail |
@@ -250,7 +250,7 @@ Started as a churn prediction model and grew into a full Customer Intelligence P
 Scrapes Pakistani government job listings (FPSC, PPSC), extracts real eligibility requirements out of the PDF advertisements they're bundled in via Gemini, and shows every open job grouped by degree level — instead of manually refreshing two government websites.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=pk-job-tracker&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=pk-job-tracker&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff&cache_seconds=86400" />
 </p>
 
 | Aspect | Detail |
@@ -273,7 +273,7 @@ Scrapes Pakistani government job listings (FPSC, PPSC), extracts real eligibilit
 A time-series forecasting pipeline predicting daily store-level sales, comparing Prophet vs. XGBoost, then extended into a full Sales Intelligence Platform with LSTM anomaly detection, review sentiment analysis, and a combined Store Health Score.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=sales-forecasting-project&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Faizan4356&repo=sales-forecasting-project&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff&cache_seconds=86400" />
 </p>
 
 | Aspect | Detail |
@@ -334,8 +334,8 @@ open_to:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faizan4356&show_icons=true&hide_border=true&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan4356&layout=compact&hide_border=true&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&text_color=ffffff" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan4356&show_icons=true&hide_border=true&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan4356&layout=compact&hide_border=true&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&text_color=ffffff&cache_seconds=86400" width="38%"/>
 
 <img src="https://streak-stats.demolab.com/?user=Faizan4356&hide_border=true&background=000000&stroke=F59E0B&ring=D97706&fire=D97706&currStreakLabel=F59E0B&sideLabels=ffffff&sideNums=ffffff&dates=9c9585" width="60%"/>
 
@@ -344,25 +344,25 @@ open_to:
 **Contribution timeline**
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan4356&bg_color=000000&color=F59E0B&line=D97706&point=ffffff&area=true&area_color=D97706&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan4356&bg_color=000000&color=F59E0B&line=D97706&point=ffffff&area=true&area_color=D97706&hide_border=true&cache_seconds=86400" width="100%"/>
 </div>
 
 **Profile summary**
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan4356&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan4356&theme=github_dark&cache_seconds=86400" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizan4356&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizan4356&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizan4356&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizan4356&theme=github_dark&cache_seconds=86400" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizan4356&theme=github_dark&cache_seconds=86400" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizan4356&theme=github_dark&cache_seconds=86400" width="32%"/>
 </div>
 
 **Trophy case**
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan4356&no-frame=true&theme=gruvbox&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan4356&no-frame=true&theme=gruvbox&column=7&cache_seconds=86400" />
 </div>
 
 <br/>
