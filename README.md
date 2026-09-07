@@ -88,7 +88,7 @@ const muhammadFaizan = {
 | **Full-stack delivery** | Every project above is served through FastAPI, React, or Streamlit — shipped behind an interface, not left in a notebook |
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/assets/domain-expertise.png" width="520"/>
+<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/domain-expertise.png" width="520"/>
 </div>
 
 <br/>
@@ -112,7 +112,7 @@ const muhammadFaizan = {
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/assets/stack-usage.png" width="520"/>
+<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/stack-usage.png" width="520"/>
 </div>
 
 <br/>
@@ -228,7 +228,7 @@ Started as a churn prediction model and grew into a full Customer Intelligence P
 | **Repo** | [View](https://github.com/Faizan4356/churn-prediction-app) |
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/assets/auc-chart.png" width="420"/>
+<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/auc-chart.png" width="420"/>
 </p>
 
 </details>
@@ -271,7 +271,7 @@ A time-series forecasting pipeline predicting daily store-level sales, comparing
 | **Repo** | [View](https://github.com/Faizan4356/sales-forecasting-project) |
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/assets/rmse-chart.png" width="420"/>
+<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/rmse-chart.png" width="420"/>
 </p>
 
 
