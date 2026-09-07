@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="assets/faizan.png" width="170" alt="Muhammad Faizan"/>
+<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/faizan.png" width="170" alt="Muhammad Faizan"/>
 
 <br/><br/>
 
