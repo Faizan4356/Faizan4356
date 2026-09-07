@@ -229,6 +229,10 @@ Started as a churn prediction model and grew into a full Customer Intelligence P
 | **Live** | [Streamlit app](https://churn-prediction-app-8ioaenzecxexkcskdmzvxc.streamlit.app) |
 | **Repo** | [View](https://github.com/Faizan4356/churn-prediction-app) |
 
+<p align="left">
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22XGBoost%20Churn%20Classifier%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22AUC%20%28real%20Telco%20data%29%22%2C%20%22data%22%3A%20%5B0.839%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23D97706%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22indexAxis%22%3A%20%22y%22%2C%20%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Churn%20Classifier%20%5Cu2014%20AUC%20Score%22%2C%20%22color%22%3A%20%22%23F5B84C%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2016%7D%7D%7D%2C%20%22scales%22%3A%20%7B%22x%22%3A%20%7B%22min%22%3A%200%2C%20%22max%22%3A%201%2C%20%22ticks%22%3A%20%7B%22color%22%3A%20%22%23F2EDE2%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%232c271c%22%7D%7D%2C%20%22y%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23F2EDE2%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%232c271c%22%7D%7D%7D%7D%7D&backgroundColor=%23000000&width=500&height=260" width="420"/>
+</p>
+
 </details>
 
 <details>
@@ -273,6 +277,10 @@ A time-series forecasting pipeline predicting daily store-level sales, comparing
 | **Notes** | 5-tab app — Forecast, Upload Your Own Data, Store Health, What-If Simulator, Portfolio Overview; 80% prediction interval via quantile regression; precomputed all-1,115-store portfolio view |
 | **Live** | [Streamlit app](https://sales-forecasting-project-espba4qtsytr6h4sjctpzr.streamlit.app) |
 | **Repo** | [View](https://github.com/Faizan4356/sales-forecasting-project) |
+
+<p align="left">
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22bar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Prophet%22%2C%20%22XGBoost%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22RMSE%20%28lower%20is%20better%29%22%2C%20%22data%22%3A%20%5B403%2C%20314%5D%2C%20%22backgroundColor%22%3A%20%5B%22%237c3d0a%22%2C%20%22%23D97706%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22plugins%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Rossmann%20Sales%20%5Cu2014%20Forecast%20RMSE%22%2C%20%22color%22%3A%20%22%23F5B84C%22%2C%20%22font%22%3A%20%7B%22size%22%3A%2016%7D%7D%7D%2C%20%22scales%22%3A%20%7B%22x%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23F2EDE2%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%232c271c%22%7D%7D%2C%20%22y%22%3A%20%7B%22ticks%22%3A%20%7B%22color%22%3A%20%22%23F2EDE2%22%7D%2C%20%22grid%22%3A%20%7B%22color%22%3A%20%22%232c271c%22%7D%7D%7D%7D%7D&backgroundColor=%23000000&width=500&height=260" width="420"/>
+</p>
 
 </details>
 
