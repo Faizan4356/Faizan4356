@@ -87,6 +87,10 @@ const muhammadFaizan = {
 | **Applied ML** | Production-grade XGBoost churn classifier (AUC 0.839, real Telco data) |
 | **Full-stack delivery** | Every project above is served through FastAPI, React, or Streamlit — shipped behind an interface, not left in a notebook |
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/assets/domain-expertise.png" width="520"/>
+</div>
+
 <br/>
 
 ## `$ ls tech-stack/`
@@ -106,6 +110,10 @@ const muhammadFaizan = {
 **Dev Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/assets/stack-usage.png" width="520"/>
+</div>
 
 <br/>
 
@@ -219,6 +227,9 @@ Started as a churn prediction model and grew into a full Customer Intelligence P
 | **Live** | [Streamlit app](https://churn-prediction-app-8ioaenzecxexkcskdmzvxc.streamlit.app) |
 | **Repo** | [View](https://github.com/Faizan4356/churn-prediction-app) |
 
+<p align="left">
+<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/assets/auc-chart.png" width="420"/>
+</p>
 
 </details>
 
@@ -258,6 +269,10 @@ A time-series forecasting pipeline predicting daily store-level sales, comparing
 | **Notes** | 5-tab app — Forecast, Upload Your Own Data, Store Health, What-If Simulator, Portfolio Overview; 80% prediction interval via quantile regression; precomputed all-1,115-store portfolio view |
 | **Live** | [Streamlit app](https://sales-forecasting-project-espba4qtsytr6h4sjctpzr.streamlit.app) |
 | **Repo** | [View](https://github.com/Faizan4356/sales-forecasting-project) |
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/main/assets/rmse-chart.png" width="420"/>
+</p>
 
 
 </details>
