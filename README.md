@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,100:D97706&height=260&section=header&text=Muhammad%20Faizan&fontSize=44&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Bachelor%20of%20Data%20Science%20%E2%80%A2%20Completed%202026&descAlignY=58&descSize=20&descColor=F59E0B" width="100%"/>
 
 <a href="https://github.com/Faizan4356">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=650&lines=Data+Science+Student+%40+UMT;Machine+Learning+%7C+NLP+%7C+Python;Building+SmokeGuard+%F0%9F%9A%AC;Building+AI-Powered-Data-Analyst+%F0%9F%93%8A;Exploring+Gender-Classification+with+YOLOv8;Building+3D-StyleForge+%F0%9F%91%97;Building+Customer+Intelligence+Platform+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F59E0B&background=000000&center=true&vCenter=true&width=650&lines=Data+Science+Student+%40+UMT;Machine+Learning+%7C+NLP+%7C+Python;Building+SmokeGuard+%F0%9F%9A%AC;Building+AI-Powered-Data-Analyst+%F0%9F%93%8A;Exploring+Gender-Classification+with+YOLOv8;Building+3D-StyleForge+%F0%9F%91%97;Building+Customer+Intelligence+Platform+%F0%9F%93%88" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -72,6 +72,10 @@ const muhammadFaizan = {
 ```
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:D97706&height=8&animation=twinkling&width=100%" width="100%"/>
+</div>
 
 ## `$ cat domain-expertise.md`
 
@@ -290,6 +294,10 @@ A time-series forecasting pipeline predicting daily store-level sales, comparing
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:D97706&height=8&animation=twinkling&width=100%" width="100%"/>
+</div>
+
 ## `$ cat education.md`
 
 **🎓 Bachelor of Data Science** — University of Management and Technology (UMT) — *Completed 2026*
@@ -354,7 +362,7 @@ open_to:
 **Trophy case**
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan4356&no-frame=true&no-bg=true&theme=dracula&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan4356&no-frame=true&theme=gruvbox&column=7" />
 </div>
 
 <br/>
@@ -370,6 +378,10 @@ A GitHub Action redraws this every day from real contribution activity — the s
 > Renders once the `snake.yml` workflow (included below) has run at least once on the repo.
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:D97706&height=8&animation=twinkling&width=100%" width="100%"/>
+</div>
 
 ## `$ cat connect.txt`
 
