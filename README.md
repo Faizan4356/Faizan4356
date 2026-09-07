@@ -8,13 +8,14 @@
 
 <br/>
 
-<img src="./assets/faizan.jpg" width="160" alt="Muhammad Faizan"/>
+<img src="assets/faizan.png" width="170" alt="Muhammad Faizan"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Degree-BS%20Data%20Science-D97706?style=flat-square&labelColor=000000"/>
 <img src="https://img.shields.io/badge/University-UMT-D97706?style=flat-square&labelColor=000000"/>
 <img src="https://img.shields.io/badge/Completed-2026-D97706?style=flat-square&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-D97706?style=flat-square&labelColor=000000"/>
 
 <br/><br/>
 
@@ -305,28 +306,52 @@ open_to:
 
 <br/>
 
-## `$ github --stats`
+## `$ github --stats --graph`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Faizan4356&show_icons=true&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan4356&layout=compact&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&text_color=ffffff" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Faizan4356&show_icons=true&hide_border=true&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&icon_color=D97706&text_color=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan4356&layout=compact&hide_border=true&theme=dark&bg_color=000000&border_color=F59E0B&title_color=F59E0B&text_color=ffffff" width="38%"/>
 
-<img src="https://streak-stats.demolab.com/?user=Faizan4356&background=000000&border=F59E0B&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Faizan4356&hide_border=true&background=000000&stroke=F59E0B&ring=D97706&fire=D97706&currStreakLabel=F59E0B&sideLabels=ffffff&sideNums=ffffff&dates=9c9585" width="60%"/>
 
 </div>
 
-### 🏆 Trophies
+**Contribution timeline**
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Faizan4356&no-frame=true&no-bg=true&theme=dracula" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan4356&bg_color=000000&color=F59E0B&line=D97706&point=ffffff&area=true&area_color=D97706&hide_border=true" width="100%"/>
 </div>
 
-### 📊 Contribution Activity
+**Profile summary**
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizan4356&bg_color=000000&color=F59E0B&line=F59E0B&point=ffffff&area=true&area_color=D97706" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faizan4356&theme=github_dark" width="100%"/>
 </div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faizan4356&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faizan4356&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faizan4356&theme=github_dark" width="32%"/>
+</div>
+
+**Trophy case**
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Faizan4356&no-frame=true&no-bg=true&theme=dracula&column=7" />
+</div>
+
+<br/>
+
+## `$ ./snake.sh --run`
+
+A GitHub Action redraws this every day from real contribution activity — the snake literally eats the squares on the graph above.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Faizan4356/Faizan4356/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> Renders once the `snake.yml` workflow (included below) has run at least once on the repo.
 
 <br/>
 
